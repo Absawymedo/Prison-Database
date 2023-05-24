@@ -1,17 +1,21 @@
-#Prison Database Project
+# Prison Database Project
+
 Welcome to the Prison Database Project! This repository contains the code and resources for a prison management system developed using Jade, Node.js, and SQL Server.
 
-#Project Overview
+# Project Overview
+
 The goal of this project is to create a comprehensive database system to manage various aspects of a prison, including inmate records, staff information, visitor logs, and more. The system provides an interface for authorized personnel to perform operations such as adding, updating, and querying data related to the prison.
 
-#Features
+# Features
+
 The Prison Database Project includes the following features:
 
 Inmate Management: Manage inmate records, including personal information, sentencing details, and behavior reports.
 
 Guard Management: Maintain guard details, including personal information, job roles, and work schedules.
 
-#Installation
+# Installation
+
 To set up the Prison Database Project locally, follow these steps:
 
 Install the required dependencies by navigating to the project directory and running the following command:
@@ -26,7 +30,8 @@ Access the application by opening a web browser and visiting http://localhost:30
 
 Using ngrok can allow online hosting
 
-#Technologies Used
+# Technologies Used
+
 The Prison Database Project utilizes the following technologies:
 
 Jade (Pug): A high-performance template engine for Node.js and Express used to generate dynamic HTML pages.
@@ -37,14 +42,15 @@ SQL Server: A relational database management system used to store and manage the
 
 Express.js: A flexible and minimalistic web application framework for Node.js used to handle server-side logic and routing.
 
-#Interface
+# Interface
+
 ![Screenshot 2023-05-25 013151](https://github.com/Absawymedo/Prison-Database/assets/125824972/8f5e7ba9-b5a2-4592-8f4f-201bedfdcb65)
 ![Screenshot 2023-05-25 013223](https://github.com/Absawymedo/Prison-Database/assets/125824972/0a2b4ceb-fc8c-47cf-a2ed-271fecf620c8)
 ![Screenshot 2023-05-25 013443](https://github.com/Absawymedo/Prison-Database/assets/125824972/95a0e172-aa21-4a29-9384-52a48fd38e6e)
 ![Screenshot 2023-05-25 013256](https://github.com/Absawymedo/Prison-Database/assets/125824972/8d31453c-4642-40fd-b8b4-cfdeb48e43ef)
 ![Screenshot 2023-05-25 013407](https://github.com/Absawymedo/Prison-Database/assets/125824972/18369f04-f249-4600-b93d-f3ee72c0c1a0)
 
-#Database
+# Database
 
 ![1](https://github.com/Absawymedo/Prison-Database/assets/125824972/bbb330e2-63f4-4067-80c9-e74a558b35ce)
 ![3](https://github.com/Absawymedo/Prison-Database/assets/125824972/13477101-260b-48c8-821d-b074ee720870)
